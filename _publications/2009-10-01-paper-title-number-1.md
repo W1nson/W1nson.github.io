@@ -2,7 +2,7 @@
 title: "Aerial Vision-and-Dialog Navigation"
 collection: publications
 permalink: /publication/AVDN
-excerpt: 
+excerpt: ''
 date: 2022-05-24
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2205.12219.pdf'
