@@ -86,7 +86,7 @@ author:
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wchen157@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/W1nson"
+  github           : "W1nson"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/winson-chen-75aab71b8/"
+  linkedin         : "winson-chen-75aab71b8/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
