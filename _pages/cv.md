@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of California Santa Cruz, 2022
+* M.S. in Scientific Computing and Applied Mathematics,  University of California Santa Cruz, 2023 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: 
+Data Science Intern
+  * **Lawrence Livermore National Laboratory**
+  * Making Machine Learning dataset more FAIR in HPC setting
+  * Create Ontology to help to connect all the data and information
+  * Scraping Data from the web to use for ontology library
+  * Learning about using CodeBERT to apply clone detection in practical uses
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021, Winter 2022, Spring 2022: Lab Assistant
+  * **University of California, Santa Cruz**
+  * 
   
 Skills
 ======
 * Skill 1
-* Skill 2
+* Skill 2ß
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
