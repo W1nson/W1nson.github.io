@@ -27,16 +27,34 @@ Data Science Intern
 
 * Fall 2021, Winter 2022, Spring 2022: Lab Assistant
   * **University of California, Santa Cruz**
-  * 
+  * Building Website for Research paper filtering service 
+  * Collecting data for Visual Language Navigation for ariel photo with navigation dataset
+  * Building Dynamical Models to distinguish the drosophila genes
+
+* Fall 2021, Winter 2022, Spring 2022: Group Tutor
+  * **University of California, Santa Cruz**
+  * Teaching CSE 13S in the CS department
+  * Teaching students C programming, and data structures
+  * Helping to debug code, answer questions
+  * Hold office hours for group sessions
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2ß
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bilingual Communications
+* C
+* C++ 
+* Python 
+  * Flask
+  * Django 
+* Machine Learning 
+  * TensorFlow 
+  * Keras 
+  * PyTorch 
+* PostgreSQL 
+* Bash 
+* Git 
+
 
 Publications
 ======
@@ -44,11 +62,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,6 +74,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
