@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MLDM4HPC
 excerpt: ''
 date: 2022-11-18
-venue: ''IEEE TransAI'22 ''
+venue: ''IEEE TransAI 22 ''
 paperurl: 'https://ieeexplore.ieee.org/document/9951530'
 citation: 'P. -H. Lin, C. Liao, W. Chen, T. Vanderbruggen, M. Emani and H. Xu, "Making Machine Learning Datasets and Models FAIR for HPC: A Methodology and Case Study," 2022 Fourth International Conference on Transdisciplinary AI (TransAI), Laguna Hills, CA, USA, 2022, pp. 128-134, doi: 10.1109/TransAI54797.2022.00029.'
 ---
