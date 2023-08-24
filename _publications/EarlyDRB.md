@@ -4,10 +4,14 @@ collection: publications
 permalink: /publication/EarlyDRB
 excerpt: ''
 date: 2023-01-31
-venue: ''IEEE Correctness'22''
+venue: ''IEEE Correctness 22''
 paperurl: 'https://ieeexplore.ieee.org/document/10027519'
 citation: 'W. Chen, T. Vanderbruggen, P. -H. Lin, C. Liao and M. Emani, "Early Experience with Transformer-Based Similarity Analysis for DataRaceBench," 2022 IEEE/ACM Sixth International Workshop on Software Correctness for HPC Applications (Correctness), Dallas, TX, USA, 2022, pp. 45-53, doi: 10.1109/Correctness56720.2022.00011.'
 ---
+
+
+
+[Early Experience with Transformer-Based Similarity Analysis for DataRaceBench](https://ieeexplore.ieee.org/document/10027519) (Chen et al., IEEE Correctness 2022)
 
 Abstract:
 
