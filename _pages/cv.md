@@ -58,6 +58,7 @@ Skills
 
 ### Computer Science fundamentals 
 - Data Structure, Algorithms Analysis, Computer Vision, Natural Language Processing, Computer System Design, Computational Models
+
 ### Mathematical fundamentals
 - Geometry, Linear Algebra, Vector Calculus, Probability, and Statistics
 
