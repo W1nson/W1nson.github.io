@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/AVDN
 excerpt: ''
 date: 2023-05-24
-venue: ''ACL Findings''
+venue: 'ACL Findings'
 paperurl: 'https://aclanthology.org/2023.findings-acl.190'
 citation: ''
 ---
