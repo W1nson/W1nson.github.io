@@ -41,19 +41,28 @@ Data Science Intern
   
 Skills
 ======
-* Bilingual Communications
-* C
-* C++ 
-* Python 
-  * Flask
-  * Django 
-* Machine Learning 
-  * TensorFlow 
-  * Keras 
-  * PyTorch 
-* PostgreSQL 
-* Bash 
-* Git 
+### Languages
+- Python, C, C++, CUDA/HIP(C++), Matlab, Fortran, SQL, JavaScript, HTML, CSS, Java, Bash, Swift, Latex
+
+### Frameworks
+- Flask, PostgreSQL, React Native
+
+### Developer Tools 
+- Visual Studio Code, Docker, Jupyter Notebook, Vim, Xcode, Postman, Git, Jira
+
+### Libraries 
+- PyTorch, TensorFlow, Pandas, NumPy, Keras, BeautifulSoup, Scrapy, Selenium, OpenMP, MPI, Qiskit, OpenCV
+
+### Services 
+- AWS, SLURM
+
+### Computer Science fundamentals 
+- Data Structure, Algorithms Analysis, Computer Vision, Natural Language Processing, Computer System Design, Computational Models
+### Mathematical fundamentals
+- Geometry, Linear Algebra, Vector Calculus, Probability, and Statistics
+
+### Soft Skills 
+- Bilingual Communications, Teamwork, Reserach skills, Scripting
 
 
 Publications
