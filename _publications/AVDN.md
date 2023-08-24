@@ -6,11 +6,9 @@ excerpt: ''
 date: 2023-05-24
 venue: 'ACL Findings'
 paperurl: 'https://aclanthology.org/2023.findings-acl.190'
-citation: ''
+citation: 'Y. Fan, W. Chen, T. Jiang, C. Zhou, Y. Zhang, and X. Wang. 2023. Aerial Vision-and-Dialog Navigation. In Findings of the Association for Computational Linguistics: ACL 2023, pages 3043–3061, Toronto, Canada. Association for Computational Linguistics.'
 ---
 
-
-[Aerial Vision-and-Dialog Navigation](https://aclanthology.org/2023.findings-acl.190) (Fan et al., Findings 2023)
 
 Abstract: 
 
