@@ -86,12 +86,12 @@ analytics:
 author:
   name             : "Winson Chen"
   avatar           : "profile.png"
-  bio              : "Master Student at Unviersity of California, Santa Cruz"
-  location         : "Santa Cruz, CA"
-  employer         :
+  bio              : "Software Engineer @ InfoIMAGE, Inc."
+  location         : "Fremont, CA"
+  employer         : "InfoIMAGE, Inc."
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "wchen157@ucsc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=RhM7lloAAAAJ&hl=en"
+  email            : "winsonchen108@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -188,7 +188,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -234,10 +234,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

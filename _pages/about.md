@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Winson Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am presently engaged in a focused pursuit of opportunities in the domains of Entry Level Software Engineer and Entry Level Machine Learning Engineer with interest in NLP, Generative AI, Computer Vision, Data Mining. 
+Hello everyone! 
 
-Currently, I am actively involved in two prestigious initiatives, namely the Amazon Alexa Prize SocialBot Grand Challenge and Alexa Prize TaskBot Challenge. These engagements have afforded me invaluable research experiences in NLP and CV and insights into cutting-edge technologies and real-world problem-solving.
+I am a Software Engineer who is interested in NLP, Generative AI, Computer Vision, and Data Mining. 
+
+Currently, I am working as Software Engineer for [InfoIMAGE](https://www.infoimageinc.com/). 
+
+I am passionate about working on innovative projects that can make a positive impact on society. 
+
+My specialities include Large Language Models (LLMs), Natural Language Processing(NLP), and Computer Vision (CV) in Machine Learning/Deep Learning (ML/DL). 
+
+
 
 As a dedicated and high-achieving student, I remain steadfast in my pursuit of excellence across all academic and extracurricular pursuits. My character is characterized by a strong sense of positivity, confidence, self-discipline, sociability, and a genuine willingness to assist others. I consistently challenge myself to surpass boundaries and deliver my utmost dedication and commitment to any undertaking.
 
