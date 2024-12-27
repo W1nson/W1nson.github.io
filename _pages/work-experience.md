@@ -1,10 +1,12 @@
 ---
 
 title: "Work Experience"
-# excerpt: "Work Experience"
+excerpt: "Work Experience"
 author_profile: true
 permalink: /work-experience/
 --- 
+
+{% include base_path %}
 
 Software Engineer 
 :   *InfoIMAGE, Inc.*
