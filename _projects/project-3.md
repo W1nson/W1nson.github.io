@@ -1,7 +1,13 @@
 ---
-title: "Mahjong Calculator"
-excerpt: "Short description of Projects item number 1<br/><img src='/images/500x300.png'>"
+title: "Stock Assistant"
+excerpt: "Using langchain to build a stock analysis agent where it queries the latest news, stock price and other information needed to perform analysis to give feedback to the user. <br/><img src='/images/stock_assistant.png'>"
 collection: projects
 ---
 
-This is an item in your project. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+### 12/27/2024 - Present 
+
+Using langchain to build a stock analysis agent where it queries the latest news, stock price and other information needed to perform analysis to give feedback to the user. 
+
+
+[Github](https://github.com/W1nson/stock_assistant)
