@@ -31,7 +31,7 @@ Software Engineer
 
 
 
-Machine Learning Eningeer
+Machine Learning Engineer
 :   *Amazon Alexa Prize / University of California, Santa Cruz*
 :   Sep 2022 - Sep 2023 
 :   Santa Cruz, California
@@ -41,8 +41,8 @@ Machine Learning Eningeer
     - Over three months, we achieved a 10% increase in user evaluations by implementing an APL (Alexa Presentation Language) detail template with text that auto-scrolls in sync with the voice-over
     - Through the design and **A/B testing** of multiple variations of dialog managers and APL templates, we successfully attained a 13.5% improvement in satisfactory evaluations, striving to unveil the ultimate user experience
 
-Data Sciencist Intern
-:   *[HPC-FAIR](https://hpc-fair.github.io/team.html)/Lawrence Livermore National Laboratory*
+Data Scientist Intern
+:   *[HPC-FAIR](https://hpc-fair.github.io/team.html) / Lawrence Livermore National Laboratory*
 :   Jun 2022 - Sep 2022 
 :   Livermore, California
     - Conducted in-depth research on machine learning models with cohorts, presenting a range of innovative approaches for analyzing the SARS-CoV-2 Inhibitors dataset

@@ -42,6 +42,12 @@ _Findings of ACL 2023_ \\
 
 
 
+# Talks
+**Early Experience with Transformer-Based Similarity Analysis for DataRaceBench** \\
+In-person talk at Correctness workshop at SC'22
+11/18/2022 \\
+*Dallas, Texas*
+
 
 
 <!-- New style rendering if publication categories are defined -->

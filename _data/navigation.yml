@@ -8,11 +8,11 @@ main:
   - title: "Work Experience"
     url: /work-experience/
 
-  - title: "Publications"
+  - title: "Publications / Talks"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "Teaching"
     url: /teaching/    
