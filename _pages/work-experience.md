@@ -10,7 +10,7 @@ permalink: /work-experience/
 
 Software Engineer 
 :   *InfoIMAGE, Inc.*
-:   Mar 2024 - Present
+:   Mar 2024 - May 2025
 :   Brisbane, California
     - Developed a new end-to-end internal Core platform using **Next.js** and **Flask**, resulting in a **80%** increase in data sample lookup
     - Designed Core ORM by using **SQLAlchemy**, to increase development time by 20% and improve security
@@ -21,7 +21,7 @@ Software Engineer
 
 Software Engineer 
 :   *[Tricia 42 LLC](https://heytricia.ai/)* 
-:   May 2024 - Present 
+:   May 2024 - Nov 2024 
 :   Remote 
     - Developed a chat interface to provide helpful information from our all-in-one guide Tricia
     - Lead the group of 3 developers to build front-end components for the Tricia platform using **Next.js**

@@ -25,7 +25,7 @@ _Alexa Prize SocialBot Grand Challenge 5 Proceedings 2023_ \\
 
 **Early experience with transformer-based similarity analysis for DataRaceBench** \\
 <ins>Winson Chen</ins>, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani \\
-_SC 2024 / Correctness 2022_ \\
+_SC'22 / Correctness 2022_ \\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10027519)]
 
 

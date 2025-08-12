@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Winson Chen"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,30 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! 
-
-I am a Software Engineer who is interested in NLP, Generative AI, Computer Vision, and Data Mining. 
-
-Currently, I am working as Software Engineer for [InfoIMAGE](https://www.infoimageinc.com/). 
-
-I am passionate about working on innovative projects that can make a positive impact on society.
-My specialities include Large Language Models (LLMs), Natural Language Processing(NLP), and Computer Vision (CV) in Machine Learning/Deep Learning (ML/DL). 
-
-Skills: 
-- Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, Keras, Scrapy, Selenium, BeautifulSoup, Flask, Qiskit, Streamlit), C++, C, Java, Javascript, CSS/HTML, SQL
-
-- Frameworks: Flask, PostgreSQL, React Native
-
-- Developer Tools: Visual Studio Code, Docker, Jupyter Notebook, Vim, Xcode, Postman, Git, Jira
-
-- Libraries: PyTorch, TensorFlow, Pandas, NumPy, Keras, BeautifulSoup, Scrapy, Selenium, OpenMP, MPI, Qiskit, OpenCV
-
-- Services: AWS, SLURM
-<!-- - Mathematical fundamentals: Geometry, Linear Algebra, Vector Calculus, Probability, and Statistics
-- Computer Science fundamentals: Data Structure, Algorithms Analysis, Computer Vision, Natural Language
-Processing, Computer System Design, Computational Models -->
-
-Please feel free to contact me at [winsonchen108@gmail.com](winsonchen108@gmail.com)
 
 
+Hi, I’m Winson Chen. I am currently a PhD student in Computer Science advise by Prof. [Caiwen Ding](https://caiwending.github.io) at University of Minnesota, Twin Cities . My research interests lie in understanding AI Agents, Reinforcement Learning in Autonomous Agents. In particular, I am fascinated by task-driven autonomous agents and their interaction with computer-use.
 
+
+Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) at University of California, Santa Cruz, where I worked on various large language model (LLM) and natural language processing (NLP) topics, including achieving 2nd place in scientific innovation cateogry in Alexa Prize SocialBot Grand Challenge 5 with personalization questions. 
+
+
+<!-- # Need to edit  -->
+# 🗞️ Recent News
+- [09/2025] I'm execited to start my PhD in Computer Science at University of Minnesota, Twin Cities. 
+
+
+- [09/2023] Team Athena was awarded Second Place (Science Innovation Winner, $50,000) in the Alexa Prize SocialBot Grand Challenge 5!
+
+- [11/2022] Recieved Travel Grant to present [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) at Correctness workshop at SC22!
+
+- [10/2022] [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) got accepted by Correctness Workshop 2022 at SC22!
