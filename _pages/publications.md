@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+**InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction** \\
+Bin Lei, Weitai Kang, Zijian Zhang, <ins>Winson Chen</ins>, Xi Xie, Shan Zuo, Mimi Xie, Ali Payani, Mingyi Hong, Yan Yan, Caiwen Ding \\
+_NeurIPS 2025_ \\
+[[paper](https://arxiv.org/abs/2505.10887)] \\
+[[code](https://github.com/bin123apple/InfantAgent)]
 
 **Active Listening: Personalized Question Generation in Open-Domain Social Conversation with User Model Based Prompting** \\
 Kevin Bowden, Yue Fan, <ins>Winson Chen</ins>, Wen Cui, Davan Harrison, Xin Wang, Marilyn Walker \\
