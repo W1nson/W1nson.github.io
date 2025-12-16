@@ -10,7 +10,7 @@ permalink: /work-experience/
 
 Software Engineer 
 :   *InfoIMAGE, Inc.*
-:   Mar 2024 - Present
+:   Mar 2024 - May 2025
 :   Brisbane, California
     - Developed a new end-to-end internal Core platform using **Next.js** and **Flask**, resulting in a **80%** increase in data sample lookup
     - Designed Core ORM by using **SQLAlchemy**, to increase development time by 20% and improve security
@@ -21,7 +21,7 @@ Software Engineer
 
 Software Engineer 
 :   *[Tricia 42 LLC](https://heytricia.ai/)* 
-:   May 2024 - Present 
+:   May 2024 - Nov 2024 
 :   Remote 
     - Developed a chat interface to provide helpful information from our all-in-one guide Tricia
     - Lead the group of 3 developers to build front-end components for the Tricia platform using **Next.js**
@@ -31,7 +31,7 @@ Software Engineer
 
 
 
-Machine Learning Eningeer
+Machine Learning Engineer
 :   *Amazon Alexa Prize / University of California, Santa Cruz*
 :   Sep 2022 - Sep 2023 
 :   Santa Cruz, California
@@ -41,8 +41,8 @@ Machine Learning Eningeer
     - Over three months, we achieved a 10% increase in user evaluations by implementing an APL (Alexa Presentation Language) detail template with text that auto-scrolls in sync with the voice-over
     - Through the design and **A/B testing** of multiple variations of dialog managers and APL templates, we successfully attained a 13.5% improvement in satisfactory evaluations, striving to unveil the ultimate user experience
 
-Data Sciencist Intern
-:   *[HPC-FAIR](https://hpc-fair.github.io/team.html)/Lawrence Livermore National Laboratory*
+Data Scientist Intern
+:   *[HPC-FAIR](https://hpc-fair.github.io/team.html) / Lawrence Livermore National Laboratory*
 :   Jun 2022 - Sep 2022 
 :   Livermore, California
     - Conducted in-depth research on machine learning models with cohorts, presenting a range of innovative approaches for analyzing the SARS-CoV-2 Inhibitors dataset

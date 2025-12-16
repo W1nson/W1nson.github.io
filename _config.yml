@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Winson Chen"
   avatar           : "profile.png"
-  bio              : "Software Engineer @ InfoIMAGE, Inc."
-  location         : "Fremont, CA"
-  employer         : "InfoIMAGE, Inc."
+  bio              : "PhD Student @ University of Minnesota, Twin Cities"
+  location         : "Minneapolis, MN"
+  employer         : "UMN"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RhM7lloAAAAJ&hl=en"
   email            : "winsonchen108@gmail.com"
@@ -246,13 +246,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
