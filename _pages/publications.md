@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning** \\
+Shiyang Li, Zijian Zhang, <ins>Winson Chen</ins>, Yuebo Luo, Mingyi Hong, Caiwen Ding \\
+_ICML 2026_ \\
+[[paper](https://arxiv.org/abs/2603.02637)] \\
+[[code](https://github.com/UMN-APEX-Lab/StitchCUDA)]
+
 **InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction** \\
 Bin Lei, Weitai Kang, Zijian Zhang, <ins>Winson Chen</ins>, Xi Xie, Shan Zuo, Mimi Xie, Ali Payani, Mingyi Hong, Yan Yan, Caiwen Ding \\
 _NeurIPS 2025_ \\

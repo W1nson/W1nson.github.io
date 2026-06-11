@@ -19,6 +19,8 @@ Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) a
 
 <!-- # Need to edit  -->
 # 🗞️ Recent News
+- [06/2026] *StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning* got accepted to [ICML 2026](https://arxiv.org/abs/2603.02637)!
+
 - [09/2025] *InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction* got accepted to NeurIPS 2025!
 
 - [09/2025] I'm excited to start my PhD in Computer Science at University of Minnesota, Twin Cities. 
