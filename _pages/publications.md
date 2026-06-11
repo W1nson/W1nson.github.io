@@ -17,6 +17,11 @@ _ICML 2026_ \\
 [[paper](https://arxiv.org/abs/2603.02637)] \\
 [[code](https://github.com/UMN-APEX-Lab/StitchCUDA)]
 
+**Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation** \\
+Le Chen, Nuo Xu, <ins>Winson Chen</ins>, Bin Lei, Pei-Hung Lin, Dunzhi Zhou, Rajeev Thakur, Caiwen Ding, Ali Jannesari, Chunhua Liao \\
+_ACL 2026_ \\
+[[paper](https://arxiv.org/abs/2512.03086)]
+
 **InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction** \\
 Bin Lei, Weitai Kang, Zijian Zhang, <ins>Winson Chen</ins>, Xi Xie, Shan Zuo, Mimi Xie, Ali Payani, Mingyi Hong, Yan Yan, Caiwen Ding \\
 _NeurIPS 2025_ \\
