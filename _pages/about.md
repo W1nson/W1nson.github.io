@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Winson Chen is a PhD student in Computer Science at the University of Minnesota, Twin Cities, working on AI agents, AI4Science, and computer vision."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,23 +19,27 @@ Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) a
 
 <!-- # Need to edit  -->
 # 🗞️ Recent News
-- [06/2026] *Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments* got accepted to [GLSVLSI 2026](https://dl.acm.org/doi/abs/10.1145/3787109.3816402)!
+<div class="news-box" markdown="1">
 
-- [05/2026] *StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning* got accepted to [ICML 2026](https://arxiv.org/abs/2603.02637)!
+- **[06/2026]** *Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments* got accepted to [GLSVLSI 2026](https://dl.acm.org/doi/abs/10.1145/3787109.3816402)!
 
-- [04/2026] Selected for the DAC Young Fellow Program!
+- **[05/2026]** *StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning* got accepted to [ICML 2026](https://arxiv.org/abs/2603.02637)!
 
-- [04/2026] *Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation* got accepted to [ACL 2026](https://arxiv.org/abs/2512.03086)!
+- **[04/2026]** Selected for the DAC Young Fellow Program!
 
-- [09/2025] *InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction* got accepted to NeurIPS 2025!
+- **[04/2026]** *Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation* got accepted to [ACL 2026](https://arxiv.org/abs/2512.03086)!
 
-- [09/2025] I'm excited to start my PhD in Computer Science at University of Minnesota, Twin Cities. 
+- **[09/2025]** *InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction* got accepted to NeurIPS 2025!
 
-- [09/2023] Team Athena was awarded Second Place (Science Innovation Winner, $50,000) in the Alexa Prize SocialBot Grand Challenge 5!
+- **[09/2025]** I'm excited to start my PhD in Computer Science at University of Minnesota, Twin Cities. 
 
-- [11/2022] Recieved Travel Grant to present [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) at Correctness workshop at SC22!
+- **[09/2023]** Team Athena was awarded Second Place (Science Innovation Winner, $50,000) in the Alexa Prize SocialBot Grand Challenge 5!
 
-- [10/2022] [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) got accepted by Correctness Workshop 2022 at SC22!
+- **[11/2022]** Recieved Travel Grant to present [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) at Correctness workshop at SC22!
+
+- **[10/2022]** [Early experience with transformer-based similarity analysis for DataRaceBench](https://ieeexplore.ieee.org/abstract/document/10027519) got accepted by Correctness Workshop 2022 at SC22!
+
+</div>
 
 # 💼 Work Experience
 - [05/2026 - Present] Research Intern, *National Institute of Advanced Industrial Science and Technology (AIST)*, Tokyo, Japan
