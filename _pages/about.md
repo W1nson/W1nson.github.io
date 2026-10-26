@@ -41,7 +41,7 @@ Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) a
 - [05/2026 - Present] Research Intern, *National Institute of Advanced Industrial Science and Technology (AIST)*, Tokyo, Japan
 - [09/2025 - Present] Graduate Research Assistant, *University of Minnesota*, Minneapolis, MN
 - [05/2024 - 11/2024] Software Engineer, *[Tricia 42 LLC](https://heytricia.ai/)*, Remote
-- [03/2024 - 05/2025] Software Engineer, *InfoIMAGE, Inc.*, Brisbane, CA
+- [03/2024 - 04/2025] Software Engineer, *InfoIMAGE, Inc.*, Brisbane, CA
 - [09/2022 - 09/2023] Machine Learning Engineer, *Amazon Alexa Prize / University of California, Santa Cruz*, Santa Cruz, CA
 - [06/2022 - 09/2022] Data Scientist Intern, *Lawrence Livermore National Laboratory*, Livermore, CA
 
