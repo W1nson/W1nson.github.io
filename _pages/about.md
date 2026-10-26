@@ -19,7 +19,7 @@ Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) a
 
 <!-- # Need to edit  -->
 # 🗞️ Recent News
-- [06/2026] *Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments* got accepted to GLSVLSI 2026!
+- [06/2026] *Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments* got accepted to [GLSVLSI 2026](https://dl.acm.org/doi/abs/10.1145/3787109.3816402)!
 
 - [05/2026] *StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning* got accepted to [ICML 2026](https://arxiv.org/abs/2603.02637)!
 
