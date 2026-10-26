@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 **Teaching Assistant** \\
+University of Minnesota, Twin Cities \\
+Spring 2026 \\
+List of Courses: 
+  - CSCI 3041 Introduction to Discrete Structures and Algorithms
+
+**Teaching Assistant** \\
 University of California, Santa Cruz \\
 Fall 2022 - Spring 2023 \\
 List of Courses: 
