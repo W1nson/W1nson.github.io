@@ -8,6 +8,12 @@ permalink: /work-experience/
 
 {% include base_path %}
 
+Research Intern
+:   *National Institute of Advanced Industrial Science and Technology (AIST)*
+:   May 2026 - Present
+:   Tokyo, Japan
+    - Designing an agentic benchmarking platform in which each run executes inside a **Docker** sandbox, letting the agent provision its own test environment and run benchmarks there; targets multi-step reasoning and tool-use tasks
+
 Software Engineer 
 :   *InfoIMAGE, Inc.*
 :   Mar 2024 - May 2025

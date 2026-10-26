@@ -19,7 +19,11 @@ Previously, I was advised by Prof. [Eric Xin Wang](https://eric-xw.github.io/) a
 
 <!-- # Need to edit  -->
 # 🗞️ Recent News
+- [06/2026] *Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments* got accepted to GLSVLSI 2026!
+
 - [05/2026] *StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning* got accepted to [ICML 2026](https://arxiv.org/abs/2603.02637)!
+
+- [04/2026] Selected for the DAC Young Fellow Program!
 
 - [04/2026] *Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation* got accepted to [ACL 2026](https://arxiv.org/abs/2512.03086)!
 

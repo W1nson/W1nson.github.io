@@ -11,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
+**Lumi Agent: Autonomous Lumerical FDTD Simulation for Photonic Waveguide Experiments** \\
+<ins>Winson Chen</ins>, Anna Capuano, Qing Gu, Caiwen Ding \\
+_GLSVLSI 2026_ \\
+[[paper](https://dl.acm.org/doi/abs/10.1145/3787109.3816402)]
+
+**QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction** \\
+<ins>Winson Chen</ins>, Yuqi Zhang, Sixu Chen, Nuo Xu, Qiang Guan, Caiwen Ding \\
+_arXiv preprint 2026_ \\
+[[paper](https://arxiv.org/abs/2607.22549)]
+
+**CUDAHercules: Benchmarking Hardware-Aware Expert-level CUDA Optimization for LLMs** \\
+Shiyang Li, Zijian Zhang, Guangyan Sun, Yuebo Luo, <ins>Winson Chen</ins>, Yanzhi Wang, Mingyi Hong, Caiwen Ding \\
+_arXiv preprint 2026_ \\
+[[paper](https://arxiv.org/abs/2605.08467)]
+
 **StitchCUDA: An Automated Multi-Agents End-to-End GPU Programming Framework with Rubric-based Agentic Reinforcement Learning** \\
 Shiyang Li, Zijian Zhang, <ins>Winson Chen</ins>, Yuebo Luo, Mingyi Hong, Caiwen Ding \\
 _ICML 2026_ \\
